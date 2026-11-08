@@ -17,14 +17,12 @@ Como caso práctico, se llevó a cabo el despliegue de una máquina virtual con 
 
 ---
 
-## 📂 Contenido del Repositorio
-* **`TPI_Virtualizacion.pdf`**: Documento de informe técnico completo con la fundamentación teórica, desarrollo metodológico, capturas de pantalla y conclusiones.
-* **`README.md`**: Documentación principal y accesos directos al material audiovisual del proyecto.
+## 🔗 Enlaces del Proyecto
+* **Repositorio oficial en GitHub:** [Ver Repositorio de GitHub](https://github.com/IvanRamirez1996/TPI-AySO-Virtualizaci-n)
+* **Video Explicativo:** [Ver Grabación en Google Drive](https://drive.google.com/file/d/1jZHwlQlSO1S73D2DsPrUaGVjPLPTj-F0/view?usp=sharing)
 
 ---
 
-## 🎥 Video Explicativo
-
-La presentación y demostración práctica completa del funcionamiento de la máquina virtual, los comandos ejecutados y la validación del servidor web se encuentra grabada y disponible en el siguiente enlace:
-
-👉 **[Ver Video Explicativo en Google Drive](https://drive.google.com/file/d/1jZHwlQlSO1S73D2DsPrUaGVjPLPTj-F0/view?usp=sharing)**
+## 📂 Contenido del Repositorio
+* **`TPI_Virtualizacion.pdf`**: Documento de informe técnico completo con la fundamentación teórica, desarrollo metodológico, capturas de pantalla y conclusiones.
+* **`README.md`**: Documentación principal, accesos a los enlaces del proyecto y presentación del grupo
